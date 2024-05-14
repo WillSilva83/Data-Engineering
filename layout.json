@@ -1,0 +1,62 @@
+{
+    "NOME_DO_ARQUIVO": {
+        "DETALHES" : [{
+            "D1": {
+                "COLUNAS" : [                
+                    {"COLUNA1" : {
+                        "TYPE" : "string",
+                        "SIZE" : [4,7]
+                    }}, 
+                    {"COLUNA2" : {
+                        "TYPE" : "string",
+                        "SIZE" : [12,7]
+                    }},
+                    {"COLUNA3" : {
+                        "TYPE" : "string", 
+                        "SIZE" : [20,7]
+                    }},
+                    {"COLUNA4" : {
+                        "TYPE" : "string", 
+                        "SIZE" : [28,4]
+                    }},
+                    {
+                        "COLUNA5": {
+                            "TYPE": "string", 
+                            "SIZE" : [33,4]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "D2" : {
+                "COLUNAS" : [
+                    {
+                        "COLUNA1" : {
+                            "TYPE" : "string",
+                            "SIZE" : [4, 14]
+                        },
+                        "COLUNA2" : {
+                            "TYPE" : "string",
+                            "SIZE" : [19,11]
+                        },
+                        "COLUNA3" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [31,10]
+                        },
+                        "COLUNA4":{
+                            "TYPE" : "string", 
+                            "SIZE" : [42,5]
+                        },
+                        "COLUNA5": {
+                            "TYPE": "string", 
+                            "SIZE": [48,5]
+                        }
+                    }
+                ]
+            }
+        }    
+    ]
+
+    }
+}
