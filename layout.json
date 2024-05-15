@@ -55,7 +55,112 @@
                     }
                 ]
             }
-        }    
+        }, 
+        {
+            "D3" : {
+                "COLUNAS" : [
+                    {
+                        "COLUNA1": {
+                            "TYPE" : "string",
+                            "SIZE" : [4,9]
+                        },
+                        "COLUNA2" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [13,9]
+                        },
+                        "COLUNA3" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [24, 10]
+                        }, 
+                        "COLUNA4":{
+                            "TYPE" : "string", 
+                            "SIZE" : [35,7]
+                        },
+                        "COLUNA5" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [43,6]
+                        },
+                        "COLUNA6" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [50,7]
+                        },
+                        "COLUNAS7" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [58,6]
+                        }
+
+                    }
+                ]
+            }
+        },
+        {
+            "D4" : {
+                "COLUNAS" : [
+                    {
+                        "COLUNA1":{
+                            "TYPE" : "string", 
+                            "SIZE" : [4,14]
+                        }, 
+                        "COLUNA2" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [19,21]
+                        },
+                        "COLUNA3" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [41, 28]
+                        }, 
+                        "COLUNA4" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [70,12]
+                        }, 
+                        "COLUNAS5" : {
+                            "TYPE" : "string", 
+                            "SIZE" : [83,12]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "D5" : {
+                "COLUNAS" : [
+                    {
+                        "COLUNA1": {
+                            "TYPE" : "string", 
+                            "SIZE" : [4,11]
+                        },
+
+                        "COLUNA2": {
+                            "TYPE" : "string", 
+                            "SIZE" : [16,12]
+                        }, 
+
+                        "COLUNA3": {
+                            "TYPE" : "string", 
+                            "SIZE" : [29,13]
+                        }, 
+                        
+                        "COLUNA4": {
+                            "TYPE" : "string",
+                            "SIZE" : [43,8]
+                        },
+                        "COLUNA5": {
+                            "TYPE" : "string",
+                            "SIZE" : [53,6]
+                        }    ,
+                        "COLUNA6": {
+                            "TYPE" : "string",
+                            "SIZE" : [59,13]
+                        },
+                        "COLUNA7": {
+                            "TYPE" : "string",
+                            "SIZE" : [73,13]
+                        }   
+
+                    }
+                ]
+            }
+        }
     ]
 
     }
